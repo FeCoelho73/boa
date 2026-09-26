@@ -1,4 +1,4 @@
-# Simulador da comissão escalonada (reconstruída da apresentação — confirmar com a loja).
+# Simulador da comissão escalonada: 1,1% em 10x, 0,9% nas 11ª-13ª, 0,3% na 15ª, 0,7% vitalícia (apresentação da loja).
 # Uso: python3 simulador_comissao.py
 # comissão reconstruída por R$ de crédito vendido, por mês após a venda (mês 1 = 1ª parcela)
 def sched(m, prazo=205):

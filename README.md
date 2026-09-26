@@ -12,7 +12,6 @@ Base de conhecimento, análise e planejamento para vender consórcios Ademicon (
 | [03-estrategias-uso-carta.md](ademicon/conhecimento/03-estrategias-uso-carta.md) | Vender "montante": troca de dívida, autoquitação, venda de carta, alavancagem, PJ |
 | [04-remuneracao-consultor.md](ademicon/conhecimento/04-remuneracao-consultor.md) | A comissão de 3% escalonada, simulação da "bola de neve" |
 | [05-dores-desejos-objecoes.md](ademicon/conhecimento/05-dores-desejos-objecoes.md) | Personas, dores, desejos, objeções e respostas |
-| [06-compliance-e-etica.md](ademicon/conhecimento/06-compliance-e-etica.md) | O que nunca prometer, LGPD, anúncios, contrato PJ |
 
 ### 📊 Análise (`ademicon/analise/`)
 | Arquivo | Conteúdo |
@@ -20,10 +19,10 @@ Base de conhecimento, análise e planejamento para vender consórcios Ademicon (
 | [01-analise-estrategica.md](ademicon/analise/01-analise-estrategica.md) | Panorama, SWOT, posicionamento, onde está o dinheiro |
 | [02-captacao-e-funil.md](ademicon/analise/02-captacao-e-funil.md) | Rede quente sem "vender", indicação como sistema, parcerias, leads frios, plano de 90 dias |
 | [03-numeros-e-metas.md](ademicon/analise/03-numeros-e-metas.md) | Da renda desejada à atividade diária; economia do tráfego pago |
-| [04-base-de-dados.md](ademicon/analise/04-base-de-dados.md) | Como ativar a base de dados sem queimar e dentro da LGPD |
+| [04-base-de-dados.md](ademicon/analise/04-base-de-dados.md) | Como ativar e monetizar a base de dados sem queimar |
 
 ### 🗂️ Backlog e fontes
 - [backlog/proximas-fases.md](ademicon/backlog/proximas-fases.md) — copy, ângulos, criativos, funil (fases seguintes)
 - [fontes/](ademicon/fontes/) — transcrição da apresentação, referências e simulador de comissão
 
-> Itens marcados **[CONFIRMAR]** precisam ser validados com a loja/regulamento antes de usar com cliente.
+> Itens marcados **[CONFIRMAR]** são números/regras a validar com a loja (precisão da informação).

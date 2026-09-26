@@ -50,7 +50,26 @@ Todo mês há **assembleia**. Formas de contemplação:
 
 > O lance **abate parcelas** (reduz prazo ou valor da parcela, conforme regra). Não é "dinheiro perdido".
 
-**Regra de ouro de compliance**: **nunca prometer data de contemplação.** Pode-se mostrar histórico de lances vencedores dos grupos (média de % e posição), mas sempre como **histórico**, não garantia.
+### 4.1 Como funciona na Ademicon (dito na apresentação da loja)
+
+| Lance | Regra | Para quem |
+|---|---|---|
+| **Embutido** | **Fixo 20%** (alguns grupos 25%) — nem 19 nem 21. Zero do bolso. | Quem não tem dinheiro para lance. Dica: contratar ~20% a mais do que precisa (precisa de 100 → contrata 120). |
+| **Misto** | **Fixo 40%** = 20% embutido + 20% em dinheiro | Quem quer usar o bem mais rápido |
+| **Livre** | Maior oferta vence; **~60–65%** para contemplar no 1º mês | Quem tem pressa e dinheiro |
+
+- **Calendário mensal**: vencimento do boleto → **quarta: extração da Loteria Federal** → **2 dias úteis para ofertar o lance já sabendo o número sorteado** → **sexta: assembleia**.
+- **Ordem**: 1 contemplação por sorteio e as demais pelos lances fixos, em ciclo.
+- **Desempate** nos lances fixos: **número mais próximo do sorteado**. Como o número já é conhecido quando se oferta o lance, o consultor calcula quem está à frente e recomenda embutido x misto — **esse é o trabalho estratégico do consultor** e o principal diferencial citado frente aos bancos (que ofertam "no escuro").
+- Lance que não contempla **não abate nada** e pode ser repetido todo mês.
+- Grupos de ~1.000, 3.000, 5.000 participantes — o perfil do cliente define o grupo ideal.
+- Depois de contemplado, a parcela passa a incidir sobre o saldo líquido (**a parcela cai**).
+- Contemplado não utilizado: o crédito fica aplicado rendendo (~100% CDI, dito na apresentação) **[CONFIRMAR]**.
+- Análise na utilização: renda de **~3x a parcela** (pode somar renda familiar), ou avalista/garantias; o bem comprado fica em garantia.
+
+Referências gerais: carta de R$ 100 mil ≈ **R$ 500–560/mês** (parcela cheia); prazo máximo ~**220 meses**; reajuste anual **INCC (~5%)** **[CONFIRMAR tabela]**.
+
+**Na prática**: o histórico de lances vencedores dos grupos (média de % e posição) é a principal ferramenta para mostrar ao cliente quando ele tende a contemplar.
 
 ## 5. Depois de contemplado: o que fazer com a carta
 

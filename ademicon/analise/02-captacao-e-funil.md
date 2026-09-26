@@ -19,13 +19,16 @@ Exportar todos os contatos (WhatsApp, Instagram, LinkedIn, agenda) para uma plan
 
 Priorizar: **alta renda + alta influência** (eles compram e indicam).
 
+**Exercício da loja — lista por capacidade de parcela** (fechamento da apresentação): "Quantas pessoas você conhece que conseguem pagar R$ 5 mil de parcela?" (≈ carta de R$ 1 milhão). Na sala, as respostas foram de ~10 até 30–40 pessoas. Depois: quantas pagam R$ 2 mil? R$ 350? Cada faixa vira uma lista com ticket diferente. **Comece pela lista dos R$ 5 mil** — 1 venda ali = 10 vendas de R$ 100 mil.
+
 ### 1.2 Os 5 tipos de abordagem que não soam como venda
 
 1. **Anúncio de nova fase (post + stories)** — "Entrei num projeto novo: estou ajudando pessoas a comprar imóvel e montar patrimônio sem pagar juros para banco. Se você paga aluguel ou tem financiamento, me chama que eu faço uma análise gratuita." Quem responde, **se autosselecionou**.
 2. **Pedido de ajuda / opinião** — "Tô começando num negócio novo e queria sua opinião sincera sobre uma apresentação de 15 min. Topa?" (as pessoas adoram ajudar; muitas compram no fim).
 3. **Diagnóstico** — "Você ainda paga aluguel? Fiz uma conta que me assustou: em 10 anos de aluguel de R$ 2.500 são R$ 300 mil. Se quiser, te mostro a conta com os seus números."
 4. **Revisão de financiamento** — "Você financiou seu apê em qual banco? Estou fazendo revisão gratuita para ver se vale trocar a dívida por uma mais barata."
-5. **Conteúdo 1:1** — mandar um vídeo/print útil e personalizado ("vi isso e lembrei de você que falou que queria sair do aluguel").
+5. **"Uma forma de fazer dinheiro"** (o ângulo que a loja usa) — "Descobri uma estratégia de montar patrimônio em imóveis só com uma parcela por mês, sem precisar ter dinheiro guardado. Posso te mostrar em 15 min?" Ideal para P3 (investidor) e para quem já tem alguma folga no orçamento.
+6. **Conteúdo 1:1** — mandar um vídeo/print útil e personalizado ("vi isso e lembrei de você que falou que queria sair do aluguel").
 
 **Regra**: 1 mensagem individual, personalizada, sem textão. Se não responder, 1 follow-up com algo de valor. Depois, silêncio.
 
@@ -85,7 +88,7 @@ Parceiros           Formulário / Lead Ad        dívida atual)             Simu
 | **Google Search** | Leads de **intenção** alta | Termos: "consórcio imóvel", "como sair do aluguel", "quitar financiamento", "consórcio vale a pena" — CPL maior, conversão maior |
 | **YouTube** (vídeos longos) | Confiança para ticket alto | Simulações reais, "consórcio como investimento: a verdade" |
 | **LinkedIn** | P3/P4 (alta renda, empresários) | Conteúdo de alavancagem patrimonial e PJ |
-| **WhatsApp** | Qualificação e relacionamento | Lista de transmissão só com opt-in; API oficial para escala |
+| **WhatsApp** | Qualificação e relacionamento | Lista de transmissão para quem já conversou; API oficial para disparo em escala (número pessoal é bloqueado) |
 | **Remarketing** | Recuperar quem interagiu | Normalmente o CPL mais barato e a melhor conversão |
 | **Eventos/workshops** | Alto ticket, empresas | Palestras em empresas, associações, igrejas (com cuidado) |
 

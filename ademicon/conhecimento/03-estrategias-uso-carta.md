@@ -21,7 +21,34 @@ Exemplo ilustrativo (números redondos, **[AJUSTAR com tabela real]**):
 ### 1.4 Venda de carta contemplada (ágio)
 Cota contemplada (principalmente cedo) vale dinheiro no mercado secundário: quem compra paga **ágio** para "pular a fila". Referências de mercado falam em ágio que pode chegar a 25–30% do **valor já pago** em momentos aquecidos — varia muito. Não há garantia de venda nem de preço.
 
+#### 1.4.1 "Carta de investimento" — recompra pela própria Ademicon (apresentação da loja)
+- Cliente paga ~R$ 500/mês numa carta de R$ 100 mil; contempla em ~2 anos (pagou ~R$ 12 mil).
+- A **Ademicon recompra a carta contemplada** por ~**35–40% do crédito** (≈ R$ 35–40 mil); o cliente para de pagar.
+- A Ademicon revende a quem quer carta contemplada por ~45–50%. **O consultor ganha na venda e na revenda.**
+- Com lance embutido de 20%: 40% de 80 mil = R$ 32 mil (ainda ~R$ 20 mil acima do que pagou).
+- Case citado: carta de ~R$ 600 mil, cliente pagou ~R$ 2.700 → recompra de ~R$ 26 mil.
+- É o "boleto do bem": o brasileiro não poupa, mas paga boleto.
+- **[CONFIRMAR]** por escrito: percentuais atuais, se a recompra é garantida ou depende de demanda, prazo de pagamento, tributação.
+
+#### 1.4.2 Crédito contemplado parado rende
+Se o cliente contempla e não usa, o crédito fica aplicado (~100% CDI, dito na apresentação) sobre o valor **total** da carta — ex.: carta de 100 mil rendendo ~R$ 1.000/mês com parcela de ~R$ 500. **[CONFIRMAR regra e tributação]**
+
 ### 1.5 Alavancagem patrimonial (multicotas)
+
+**Exemplo usado pela loja — bola de neve de estúdios (Airbnb/Housi):**
+
+| Item | Valor/mês |
+|---|---|
+| Estúdio bem localizado em SP | R$ 400 mil |
+| Receita: diária R$ 250 × 22 dias (cenário conservador) | + R$ 5.500 |
+| Parcela do consórcio | − R$ 2.000 |
+| Condomínio/água/luz/IPTU/internet | − R$ 600 |
+| Administradora (10–12%) | − R$ 600 |
+| **Sobra** | **≈ R$ 2.300** |
+
+A sobra paga **uma nova carta** → segundo estúdio → "cada estúdio contemplado vira mais dois". Mesmo no pior cenário (contemplar em 5 anos), foram ~R$ 120 mil pagos por um ativo de R$ 400 mil. *(Validar diária/ocupação real por região antes de usar com cliente; considerar vacância, mobília, regras do condomínio para locação curta.)*
+
+**Estrutura geral em fases:**
 Investidor compra **várias cotas** e usa lances (embutido + próprio) para ir sendo contemplado ao longo do tempo, comprando imóveis que geram renda, que pagam novas cotas… Estratégia em fases:
 1. **Fase lucro**: contemplações cedo → possibilidade de vender cota com ágio.
 2. **Fase alavancagem**: usar cartas para adquirir ativos geradores de renda.
@@ -47,11 +74,3 @@ Todo contemplado vira **comprador à vista**. Descontos de 5–15% em imóvel/ve
 | Poder de compra | Crédito já vinculado ao bem | Montante à vista, flexível |
 
 > Fazer uma **planilha de simulação** própria (ver backlog) para mostrar lado a lado com os números reais do cliente.
-
-## 4. ⚠️ Linha vermelha de compliance
-
-Consórcio **não é investimento regulado pela CVM** e **não tem rentabilidade garantida**. Ao usar os ângulos "investimento", "capitalizar" e "alavancagem":
-- Falar de **estratégia** e **custo**, nunca prometer **retorno**, **ágio** ou **data de contemplação**.
-- Sempre deixar claro que a contemplação é por sorteio ou lance.
-- Usar histórico como histórico ("nos últimos 12 meses, o lance médio vencedor foi X%"), nunca como promessa.
-- Reclamações no Reclame Aqui e processos contra o setor vêm quase sempre de **promessa de contemplação rápida**. A reputação é o ativo de longo prazo do consultor.

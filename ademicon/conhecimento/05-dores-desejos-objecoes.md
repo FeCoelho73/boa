@@ -55,7 +55,7 @@
 
 | Objeção | Por trás dela | Resposta-base |
 |---|---|---|
-| "Consórcio demora demais." | Medo de esperar anos | Mostrar **lance embutido** (sem tirar do bolso) e **histórico real** de lances vencedores. Comparar: "financiamento é rápido, mas você paga 2–3 imóveis. Qual pressa vale R$ 400 mil?" Nunca prometer data. |
+| "Consórcio demora demais." | Medo de esperar anos | O jogo da loja: "tira a pressa do cliente e trabalha com o tempo" — mostrar que o lance é dado **sabendo o número sorteado** (2 dias para estratégia). Mostrar **lance embutido** (sem tirar do bolso) e **histórico real** de lances vencedores. Comparar: "financiamento é rápido, mas você paga 2–3 imóveis. Qual pressa vale R$ 400 mil?" |
 | "Isso é sorte, loteria." | Falta de controle | Existem 3 caminhos: sorteio, lance livre, lance embutido. **Estratégia de lance** é o seu trabalho de consultor. |
 | "Consórcio é golpe." | Histórias de administradoras quebradas / vendedor que prometeu contemplação | Ademicon: 35 anos, fiscalizada pelo BC, maior independente, 4ª do país. Patrimônio do grupo é separado. Mostrar contrato. |
 | "Prefiro financiar." | Imediatismo | Fazer a conta lado a lado com a taxa real do banco. Pergunta: "você quer o imóvel mais rápido ou quer pagar menos por ele?" |

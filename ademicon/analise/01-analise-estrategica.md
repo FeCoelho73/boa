@@ -25,7 +25,7 @@
 | Mercado crescendo 30%/ano | Concorrência de bancos (gerente com base de correntistas) |
 | Poucos consultores sabem fazer marketing digital de verdade | Reputação do setor (vendedores que prometem contemplação) |
 | Nichos de alto ticket (investidor, PJ, agro, quitação de financiamento) | Políticas de anúncios financeiros (Meta/Google) |
-| Parcerias com corretores de imóvel (clientes reprovados no financiamento) | LGPD/bloqueio de WhatsApp ao usar base fria |
+| Parcerias com corretores de imóvel (clientes reprovados no financiamento) | Bloqueio de número no WhatsApp ao disparar para base fria |
 | Serviços/eletros como porta de entrada | Estorno de comissão se cliente desistir cedo |
 
 ## 3. Posicionamento recomendado

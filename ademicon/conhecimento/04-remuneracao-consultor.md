@@ -1,6 +1,8 @@
 # 04 — Como o consultor é pago (comissão escalonada de 3%)
 
-> ⚠️ **Reconstrução a partir do áudio da apresentação** (transcrição automática com ruído) + relatos públicos. Os percentuais batem exatamente com os 3% que você ouviu, mas **[CONFIRMAR com o Fábio a tabela oficial por escrito]**, principalmente: o que acontece com a comissão se o cliente atrasar/cancelar, e se há diferença por produto (imóvel x auto x serviços).
+> ✅ Estrutura **dita literalmente no fim da apresentação**: *"1,1% para 10 parcelas; 0,9% pago nas 11, 12 e 13; 0,3% de bônus na 15; e 0,7% vitalício."* Ainda assim, **[CONFIRMAR por escrito]**: o que acontece se o cliente atrasar/cancelar, se é igual para todos os produtos e se a vitalícia é herdável (alguém perguntou "pode deixar para os filhos?").
+>
+> Por que é parcelada: antes a comissão era paga à vista e **estornada** se o cliente parasse de pagar. O modelo parcelado "obriga a gente a cuidar do cliente" e cria um colchão de renda (se você parar 3 meses, continua recebendo).
 
 ## 1. A estrutura (sobre o valor da carta vendida)
 
@@ -8,7 +10,7 @@
 |---|---|---|
 | 1ª à 10ª | 0,11% ao mês (1,1% no total) | R$ 1.100/mês por 10 meses = R$ 11.000 |
 | 11ª, 12ª e 13ª | 0,30% ao mês ("triplica") (0,9% no total) | R$ 3.000/mês por 3 meses = R$ 9.000 |
-| 15ª | 0,30% (mais um "bolo") | R$ 3.000 |
+| 15ª | 0,30% (bônus) | R$ 3.000 |
 | 16ª até o fim do grupo (~205–220 meses) | 0,7% diluído ("vitalícia") | ≈ R$ 35/mês por ~17 anos = R$ 7.000 |
 | **Total** | **3,0%** | **R$ 30.000** |
 

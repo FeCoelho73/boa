@@ -38,7 +38,9 @@
 
 - Segundo o que foi dito na visita: **a loja que mais vende na rede Ademicon**.
 - Implicações: estrutura de treinamento madura, líderes com cases reais (ex.: consultor que vendeu R$ 1,6 mi sem network, vindo do interior), cultura de meta alta (ex.: "uma carta de R$ 100 mil por dia").
-- **[CONFIRMAR]** números da loja (volume mensal, quantos consultores, ticket médio, leads que a loja fornece?).
+- Números ditos na apresentação: a loja vende **~R$ 240–250 milhões/mês**, é a **nº 1 entre ~340 unidades**, com **150–200 pessoas em treinamento diário** (inclusive sábado). Existem clientes de R$ 25–40 milhões.
+- Comparação usada pelo gestor: Porto Seguro e Bradesco venderam ~R$ 12 bi cada em 2025; a Ademicon sozinha, R$ 47 bi.
+- **[CONFIRMAR]** quantos consultores ativos, ticket médio da loja, se a loja fornece leads/verba de mídia.
 
 ## 4. Concorrência
 

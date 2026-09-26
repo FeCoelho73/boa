@@ -11,6 +11,10 @@
   - "Como os ricos compram imóveis sem descapitalizar."
   - "Troque sua dívida cara por uma sem juros." (quitação de financiamento)
   - "O que ninguém te conta sobre consórcio" (transparência como diferencial)
+  - "O brasileiro não poupa, mas paga boleto. Então crie um **boleto do bem** para você." (carta de investimento)
+  - "Um estúdio que paga outro estúdio." (bola de neve Airbnb)
+  - "No banco, o lance é dado no escuro. Aqui a gente dá o lance sabendo o número sorteado." (diferencial estratégico)
+  - "Você não precisa ter dinheiro para investir em imóvel. Precisa de uma parcela." 
 - [ ] **Referência de estilo: Hard Copy** — [@hardcopy_oficial](https://www.instagram.com/hardcopy_oficial/) (~162 mil seguidores; "Veja o início que eu te seguro até o final"). Post de referência enviado: https://www.instagram.com/p/DdF3cDrAyJt/ — **não consegui abrir o Instagram deste ambiente (bloqueado)**. Pendente: você colar aqui o texto/roteiro dos posts de que mais gosta para eu decompor a estrutura.
 - [ ] **Análise de estrutura de vendas/copy — Tiago Filemon**: você disse que "já temos". Não está neste repositório. No seu Google Drive aparecem materiais relacionados (pasta "CF - Tiago Filemon (Copywriting)", "Swipe File Filemon - Imersão Ads Pro", "American Dream 2025"). Pendente: indicar qual é o documento da análise para aplicarmos a consórcio.
 - [ ] Banco de **frases reais de clientes** (`fontes/frases-de-clientes.md`) alimentado a cada reunião.
