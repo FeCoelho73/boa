@@ -23,6 +23,7 @@
 | Créditos vendidos 2025 | **R$ 47 bi** (+73%; meta era R$ 40 bi) |
 | 1º semestre 2026 | **R$ 36 bi** (+73% vs 1S25) |
 | Meta 2026 | ~R$ 60–65 bi; plano de **400 lojas até 2030** |
+| Rede | ~300 lojas, **~10 mil consultores** (média ≈ R$ 390 mil/mês vendidos por consultor) |
 | Marketing | R$ 100 milhões investidos em marketing (2025) |
 | Ranking BC | **Maior administradora independente** em créditos ativos; **4ª do país** considerando bancos e montadoras (atrás de Banco do Brasil, Bradesco e Porto) |
 | Participação de mercado 2025 | R$ 47 bi / R$ 500 bi ≈ **9,4%** de tudo que foi vendido no Brasil |
@@ -62,3 +63,5 @@
 4. **Agro**: pesados (herança Conseg).
 5. **Serviços e eletros** crescendo forte: porta de entrada de ticket baixo para depois fazer upsell.
 6. **Holding patrimonial / planejamento sucessório** com consórcio (parceria com advogados e contadores).
+
+> Painel completo de números com fontes: [`07-dados-de-mercado.md`](07-dados-de-mercado.md).

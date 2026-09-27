@@ -66,6 +66,13 @@
 | "Meu gerente do banco me ofereceu." | Comparação | Comparar TA, prazo, lance embutido, e o mais importante: **o gerente não acompanha a estratégia de lance**. |
 | "E se eu não conseguir pagar?" | Medo de perda | Explicar honestamente: exclusão, devolução no sorteio de excluídos/encerramento, transferência da cota, seguro prestamista. Transparência gera confiança. |
 
+## 4.1 Medos que aparecem no Reclame Aqui (Ademicon, nota 7,2)
+- Prometeram contemplação rápida e não aconteceu.
+- Demora para pagar a carta ao vendedor do bem / para transferir cota.
+- Dificuldade de cancelar; pós-venda que some.
+
+→ Antecipar esses medos na reunião ("eu acompanho sua cota todo mês, nas 48h entre o sorteio e a assembleia") vira argumento de fechamento e de indicação.
+
 ## 5. Frases que o cliente diz (usar na copy depois)
 
 - "Cansei de pagar aluguel."

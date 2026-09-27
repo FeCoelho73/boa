@@ -20,6 +20,8 @@
 - [ ] Banco de **frases reais de clientes** (`fontes/frases-de-clientes.md`) alimentado a cada reunião.
 - [ ] Scripts: abordagem rede quente, pedido de indicação, abordagem a parceiros, qualificação WhatsApp, reunião de apresentação, fechamento, pós-venda.
 
+- [x] **Playbook de VSL** a partir do acervo do Drive → [`../copy/vsl-playbook-consorcio.md`](../copy/vsl-playbook-consorcio.md)
+
 ## FASE 3 — Criativos
 - [ ] Formatos: Reels educativos (talking head), "conta no quadro", antes/depois (aluguel x patrimônio), depoimentos, carrossel de números, UGC, bastidores da loja/contemplações.
 - [ ] Matriz ângulo × formato × persona para testes.
