@@ -1,24 +1,27 @@
 # 08 — Catálogo completo de produtos Ademicon
 
-> Montado a partir de buscas no site da Ademicon, unidades, imprensa e parceiros (o site em si é bloqueado neste ambiente — por isso via busca). **[CONFIRMAR]** faixas de crédito e condições atuais na tabela da loja.
+> Atualizado com a **raspagem do site oficial** (27/09/2026) — detalhes em [`../pesquisa/dados-site-ademicon.md`](../pesquisa/dados-site-ademicon.md). **[CONFIRMAR]** faixas e taxas atuais na tabela da loja.
+>
+> **Segmentos oficiais no site**: Imóveis · Veículos · Serviços · Bens móveis · Motos · Seguro Prestamista · Ademicon Crédito.
 
 ## A. CONSÓRCIOS
 
 | # | Produto | O que compra / para que serve | Referências conhecidas |
 |---|---|---|---|
-| 1 | **Imóvel — compra** | Casa, apartamento, sala comercial, imóvel rural, na planta, novo ou usado | Carro-chefe; pioneira no Brasil (1991) |
+| 1 | **Imóvel — compra** | Casa, apartamento, sala comercial, imóvel rural, na planta, novo ou usado; também **aposentadoria imobiliária**, **assunção de dívida**, **consórcio para leilão** e **projeto estruturado** | Carro-chefe; aceita **FGTS**; **planos com parcela reduzida**; reajuste anual do crédito |
 | 2 | **Imóvel — construção, reforma e terreno** | Construir do zero, reformar, comprar terreno | Liberação em etapas conforme obra **[CONFIRMAR]** |
 | 3 | **Imóvel — quitação de financiamento** | Quitar financiamento ou saldo devedor de imóvel na planta | Troca dívida com juros por taxa de administração |
 | 4 | **Imóvel — investimento ("carta de investimento")** | Montar patrimônio: imóvel para aluguel/Airbnb, venda/recompra da carta contemplada, rendimento do crédito contemplado parado | Recompra ~35–40% do crédito (dito na loja) **[CONFIRMAR]** |
-| 5 | **Veículos leves** | Carro novo ou usado | Ademicon diz ter ajudado +373 mil pessoas em veículos |
+| 5 | **Veículos leves** | Carro novo ou usado, SUV, **elétrico e híbrido** | **Plano 50** (metade da parcela até contemplar); exemplo do site: TA 14% + FR 1%, reajuste INPC; +373 mil clientes em veículos |
 | 6 | **Motos** | Street, trail, custom | Ticket baixo, alto volume |
 | 7 | **Pesados** | Caminhões, ônibus, frota para empresa | Herança Conseg (Iveco etc.) |
 | 8 | **Agro** | Tratores, colheitadeiras, implementos, pivôs de irrigação, infraestrutura agrícola | ~R$ 3 bi em créditos agro em 2024 (+50%); marcas New Holland, John Deere |
 | 9 | **Náutico e aeronáutico** | Lancha, barco, jet ski, aeronave | Nicho alto padrão |
-| 10 | **Serviços** | Viagem, intercâmbio, cursos, formatura, casamento, festas, cirurgias (plástica, catarata, refrativa), tratamentos | Crédito ~R$ 15–40 mil |
+| 10 | **Serviços** | Cirurgia plástica e estética, **odontologia** (implante, aparelho, lentes), **oftalmologia**, viagem, intercâmbio, **educação** (graduação a doutorado), formatura, casamento, **festas de aniversário** | Créditos a partir de R$ 20 mil (formatura), R$ 25 mil (viagem), R$ 30 mil (cirurgia); **contratação 100% digital** |
 | 11 | **Energia solar** (via serviços/bens) | Placas fotovoltaicas em casa, empresa ou fazenda | Cartas ~R$ 40–100 mil; parcelas a partir de ~R$ 300 |
 | 12 | **Empresas (PJ)** | Frota, máquinas, sede, reforma, equipamentos | Parceria digital com Fibra Corretora (2026) para empresas |
-| 13 | **Ademicon USA** | Brasileiros nos EUA comprando imóvel no Brasil | Lojas em Miami, Orlando (+ Framingham, MA) |
+| 13 | **Ademicon USA** | Brasileiros nos EUA comprando imóvel no Brasil | Lojas em Miami, Orlando e Framingham (MA); simulador: R$ 1 mi ≈ R$ 3.373/mês em 220 meses |
+| 13b | **Bens móveis** | Equipamentos em geral | Segmento listado no site |
 
 ## B. CRÉDITO (Ademicon Crédito / Securitizadora)
 
@@ -26,7 +29,7 @@
 |---|---|---|---|
 | 14 | **Home Equity** | Empréstimo com imóvel como garantia (dinheiro na mão, juros baixos, prazo longo) | Crédito de ~R$ 30 mil a R$ 4 mi; liberação em até ~60 dias; parceria Banco Bari |
 | 15 | **Car Equity** | Empréstimo com carro como garantia | Juros a partir de ~1,49% a.m.; veículos até 15 anos; parceria Creditas |
-| 16 | **Cota Equity** | Empréstimo usando a **própria cota de consórcio** como garantia | Juros a partir de ~1,99% a.m.; para clientes de imóvel e serviços |
+| 16 | **Cota Equity** | Empréstimo usando a **própria cota de consórcio** como garantia | Juros a partir de 1,99% a.m.; clientes de imóvel e serviços; **só se a carta ainda não foi usada**; contratação pelo app |
 
 ## C. PROTEÇÃO
 

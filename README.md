@@ -25,12 +25,14 @@ Base de conhecimento, análise e planejamento para vender consórcios Ademicon (
 
 ### ✍️ Copy (`ademicon/copy/`)
 - [00-niveis-de-consciencia.md](ademicon/copy/00-niveis-de-consciencia.md) — estruturas N1 (inconsciente, explicado para criança de 10 anos), N2 (problema) e N3 (solução) + matriz de testes
-- [produtos/](ademicon/copy/produtos/) — copy de **cada produto** nos 3 níveis: [imóveis](ademicon/copy/produtos/01-imoveis.md), [veículos/agro/empresas](ademicon/copy/produtos/02-veiculos-agro-empresas.md), [serviços/crédito/seguros](ademicon/copy/produtos/03-servicos-credito-seguros.md)
+- [produtos/](ademicon/copy/produtos/) — copy de **cada produto** nos 3 níveis: [imóveis](ademicon/copy/produtos/01-imoveis.md), [veículos/agro/empresas](ademicon/copy/produtos/02-veiculos-agro-empresas.md), [serviços/crédito/seguros](ademicon/copy/produtos/03-servicos-credito-seguros.md), [ângulos dos comentários](ademicon/copy/produtos/04-angulos-dos-comentarios.md)
 - [vsl-playbook-consorcio.md](ademicon/copy/vsl-playbook-consorcio.md) — frameworks do acervo de VSL aplicados a consórcio, mecanismos, roteiro completo da VSL A, esqueletos B/C, ad-VSLs e funil de quiz
 
 ### 🔎 Pesquisa e ferramentas
+- [pesquisa/analise-comentarios-youtube.md](ademicon/pesquisa/analise-comentarios-youtube.md) — **433 comentários reais** analisados: temas, frases, respostas prontas e ideias de conteúdo
+- [pesquisa/dados-site-ademicon.md](ademicon/pesquisa/dados-site-ademicon.md) — dados oficiais raspados do site (Plano 50, FGTS, usos, números, diretoria)
 - [pesquisa/voz-do-cliente.md](ademicon/pesquisa/voz-do-cliente.md) — perfis de referência, crenças, dores, desejos e frases do público
-- [ferramentas/raspar.py](ademicon/ferramentas/raspar.py) — raspador de comentários do YouTube e páginas da Ademicon (precisa de rede liberada)
+- [ferramentas/raspar.py](ademicon/ferramentas/raspar.py) — raspador de comentários do YouTube e páginas da Ademicon (roda no seu computador)
 
 ### 🗂️ Backlog e fontes
 - [backlog/proximas-fases.md](ademicon/backlog/proximas-fases.md) — copy, ângulos, criativos, funil (fases seguintes)

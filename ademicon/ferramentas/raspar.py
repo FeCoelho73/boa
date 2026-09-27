@@ -25,7 +25,6 @@ VIDEOS = {
     "primo-pobre-consorcio-vale-a-pena": "https://www.youtube.com/watch?v=-ec5K1B1rmo",
     "resposta-primo-pobre-consorcio": "https://www.youtube.com/watch?v=pMl5zBtOpiQ",
     "rebatendo-criticas-consorcio-golpe": "https://www.youtube.com/watch?v=VO1I8FWeE0A",
-    "vale-a-pena-investir-no-consorcio": "https://www.youtube.com/watch?v=RzcagXWwoAE",
 }
 
 PAGINAS_ADEMICON = [
@@ -98,6 +97,7 @@ def raspar_site():
         except Exception as erro:
             print(f"[site] {url}: falhou ({erro})")
             continue
+        resposta.encoding = "utf-8"
         sopa = BeautifulSoup(resposta.text, "html.parser")
         for tag in sopa(["script", "style", "noscript"]):
             tag.decompose()
