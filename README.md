@@ -33,6 +33,7 @@ Base de conhecimento, análise e planejamento para vender consórcios Ademicon (
 - [pesquisa/dados-site-ademicon.md](ademicon/pesquisa/dados-site-ademicon.md) — dados oficiais raspados do site (Plano 50, FGTS, usos, números, diretoria)
 - [pesquisa/voz-do-cliente.md](ademicon/pesquisa/voz-do-cliente.md) — perfis de referência, crenças, dores, desejos e frases do público
 - [ferramentas/raspar.py](ademicon/ferramentas/raspar.py) — raspador de comentários do YouTube e páginas da Ademicon (roda no seu computador)
+- [ferramentas/raspar_social.py](ademicon/ferramentas/raspar_social.py) — coleta comentários do Instagram e Facebook usando o seu navegador logado
 
 ### 🗂️ Backlog e fontes
 - [backlog/proximas-fases.md](ademicon/backlog/proximas-fases.md) — copy, ângulos, criativos, funil (fases seguintes)
