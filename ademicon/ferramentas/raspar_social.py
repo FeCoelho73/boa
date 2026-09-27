@@ -16,6 +16,7 @@ Uso:
   py ademicon/ferramentas/raspar_social.py                  # alvos padrão abaixo
   py ademicon/ferramentas/raspar_social.py --posts 5        # menos posts por perfil
   py ademicon/ferramentas/raspar_social.py --url https://www.instagram.com/p/XXXX/   # um post específico
+  py ademicon/ferramentas/raspar_social.py --automatico     # sem pausa de login (agendamento)
 """
 
 import argparse
@@ -148,13 +149,15 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--posts", type=int, default=8, help="posts por perfil/página")
     parser.add_argument("--url", action="append", help="post específico (pode repetir)")
+    parser.add_argument("--automatico", action="store_true", help="não pausa para login (usar depois do primeiro login)")
     args = parser.parse_args()
 
     SAIDA.mkdir(parents=True, exist_ok=True)
     with sync_playwright() as p:
         contexto = p.chromium.launch_persistent_context(str(PERFIL_NAVEGADOR), headless=False, locale="pt-BR")
         pagina = contexto.pages[0] if contexto.pages else contexto.new_page()
-        esperar_login(pagina)
+        if not args.automatico:
+            esperar_login(pagina)
 
         alvos_ig = list(args.url or [])
         alvos_fb = [u for u in alvos_ig if "facebook.com" in u]

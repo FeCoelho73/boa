@@ -34,6 +34,7 @@ Base de conhecimento, análise e planejamento para vender consórcios Ademicon (
 - [pesquisa/voz-do-cliente.md](ademicon/pesquisa/voz-do-cliente.md) — perfis de referência, crenças, dores, desejos e frases do público
 - [ferramentas/raspar.py](ademicon/ferramentas/raspar.py) — raspador de comentários do YouTube e páginas da Ademicon (roda no seu computador)
 - [ferramentas/raspar_social.py](ademicon/ferramentas/raspar_social.py) — coleta comentários do Instagram e Facebook usando o seu navegador logado
+- [ferramentas/coletar.ps1](ademicon/ferramentas/coletar.ps1) — **coleta automática semanal** no Windows (YouTube, site, Instagram, Facebook → GitHub)
 
 ### 🗂️ Backlog e fontes
 - [backlog/proximas-fases.md](ademicon/backlog/proximas-fases.md) — copy, ângulos, criativos, funil (fases seguintes)
