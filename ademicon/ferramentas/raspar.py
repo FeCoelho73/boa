@@ -7,7 +7,7 @@ Coleta:
 Saída: ademicon/pesquisa/raw/*.json e *.txt — depois é só pedir ao Claude para analisar.
 
 Uso (na raiz do repositório):
-  pip install youtube-comment-downloader requests beautifulsoup4
+  pip install yt-dlp youtube-comment-downloader requests beautifulsoup4
   python3 ademicon/ferramentas/raspar.py            # tudo
   python3 ademicon/ferramentas/raspar.py youtube    # só comentários
   python3 ademicon/ferramentas/raspar.py site       # só site Ademicon
@@ -34,7 +34,7 @@ PAGINAS_ADEMICON = [
     "https://www.ademicon.com.br/consorcio-de-veiculos",
     "https://www.ademicon.com.br/consorcio-de-servicos",
     "https://www.ademicon.com.br/ademicon-credito",
-    "https://ademicon.com.br/credito/cota-equity/",
+    "https://www.ademicon.com.br/credito/cota-equity/",
     "https://www.ademicon.com.br/a-ademicon",
     "https://ademiconusa.com/",
 ]
@@ -42,20 +42,45 @@ PAGINAS_ADEMICON = [
 LIMITE_COMENTARIOS = 1000
 
 
-def raspar_youtube():
+def _comentarios_yt_dlp(url):
+    import yt_dlp
+
+    opcoes = {
+        "skip_download": True,
+        "getcomments": True,
+        "quiet": True,
+        "extractor_args": {"youtube": {"max_comments": [str(LIMITE_COMENTARIOS), "all", "100"], "comment_sort": ["top"]}},
+    }
+    with yt_dlp.YoutubeDL(opcoes) as ydl:
+        info = ydl.extract_info(url, download=False)
+    return [
+        {"texto": c.get("text"), "curtidas": c.get("like_count"), "resposta": c.get("parent") != "root"}
+        for c in (info.get("comments") or [])
+    ]
+
+
+def _comentarios_downloader(url):
     from youtube_comment_downloader import SORT_BY_POPULAR, YoutubeCommentDownloader
 
-    baixador = YoutubeCommentDownloader()
+    comentarios = []
+    for c in YoutubeCommentDownloader().get_comments_from_url(url, sort_by=SORT_BY_POPULAR):
+        comentarios.append({"texto": c.get("text"), "curtidas": c.get("votes"), "resposta": c.get("reply")})
+        if len(comentarios) >= LIMITE_COMENTARIOS:
+            break
+    return comentarios
+
+
+def raspar_youtube():
     for nome, url in VIDEOS.items():
         comentarios = []
-        try:
-            for c in baixador.get_comments_from_url(url, sort_by=SORT_BY_POPULAR):
-                comentarios.append({"texto": c.get("text"), "curtidas": c.get("votes"), "respostas": c.get("replies")})
-                if len(comentarios) >= LIMITE_COMENTARIOS:
-                    break
-        except Exception as erro:  # vídeo removido, rede bloqueada etc.
-            print(f"[youtube] {nome}: falhou ({erro})")
-            continue
+        for metodo in (_comentarios_yt_dlp, _comentarios_downloader):
+            try:
+                comentarios = metodo(url)
+            except Exception as erro:  # biblioteca ausente, vídeo removido, rede bloqueada etc.
+                print(f"[youtube] {nome}: {metodo.__name__} falhou ({erro})")
+                continue
+            if comentarios:
+                break
         destino = SAIDA / f"youtube-{nome}.json"
         destino.write_text(json.dumps(comentarios, ensure_ascii=False, indent=1), encoding="utf-8")
         print(f"[youtube] {nome}: {len(comentarios)} comentários -> {destino}")
