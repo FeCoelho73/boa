@@ -1,4 +1,4 @@
-# Sobe para o GitHub (como repositórios PRIVADOS) todas as pastas de trabalho do seu computador,
+﻿# Sobe para o GitHub (como repositórios PRIVADOS) todas as pastas de trabalho do seu computador,
 # para o Claude conseguir ler: análises de VSL, criativos, copy etc.
 #
 # Uso (PowerShell, uma linha):

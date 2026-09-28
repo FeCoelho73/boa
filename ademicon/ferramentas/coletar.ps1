@@ -1,4 +1,4 @@
-# Coleta automática de pesquisa (YouTube, site Ademicon, Instagram, Facebook) e envio para o GitHub.
+﻿# Coleta automática de pesquisa (YouTube, site Ademicon, Instagram, Facebook) e envio para o GitHub.
 #
 # Primeira vez (faz login e agenda a coleta semanal):
 #   powershell -ExecutionPolicy Bypass -File "$HOME\boa\ademicon\ferramentas\coletar.ps1" -Instalar
