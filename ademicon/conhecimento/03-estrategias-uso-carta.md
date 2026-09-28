@@ -33,6 +33,13 @@ Cota contemplada (principalmente cedo) vale dinheiro no mercado secundário: que
 #### 1.4.2 Crédito contemplado parado rende
 Se o cliente contempla e não usa, o crédito fica aplicado (~100% CDI, dito na apresentação) sobre o valor **total** da carta — ex.: carta de 100 mil rendendo ~R$ 1.000/mês com parcela de ~R$ 500. **[CONFIRMAR regra e tributação]**
 
+### 1.4.3 Alavancagem patrimonial com imóvel quitado ("dinheiro novo") — fala do líder Marcelo
+- O consórcio é **alienado a um imóvel já quitado e no nome do consorciado**; o crédito é liberado seguindo o processo normal do consórcio (**não na hora**, depende da contemplação).
+- Uso: capital para a empresa, investir, se recapitalizar. [CONFIRMAR regras: % do valor do imóvel, documentação, prazos]
+
+### 1.4.4 Case contado pelo líder
+Carta de **R$ 500 mil**, contemplada no **5º mês**; o cliente desistiu do imóvel e **vendeu a carta por ~R$ 195–200 mil tendo pago ~R$ 5 mil**. [CONFIRMAR antes de usar em anúncio]
+
 ### 1.5 Alavancagem patrimonial (multicotas)
 
 **Exemplo usado pela loja — bola de neve de estúdios (Airbnb/Housi):**

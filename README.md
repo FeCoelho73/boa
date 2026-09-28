@@ -22,6 +22,7 @@ Base de conhecimento, análise e planejamento para vender consórcios Ademicon (
 | [02-captacao-e-funil.md](ademicon/analise/02-captacao-e-funil.md) | Rede quente sem "vender", indicação como sistema, parcerias, leads frios, plano de 90 dias |
 | [03-numeros-e-metas.md](ademicon/analise/03-numeros-e-metas.md) | Da renda desejada à atividade diária; economia do tráfego pago |
 | [04-base-de-dados.md](ademicon/analise/04-base-de-dados.md) | Como ativar e monetizar a base de dados sem queimar |
+| [06-sistema-de-prospeccao.md](ademicon/analise/06-sistema-de-prospeccao.md) | **Sistema do líder**: segmentação R/C/D, roteiros de 1º contato, diagnóstico de 15 min, árvore de decisão, objeções, tráfego de carro |
 | [05-nichos-prospeccao.md](ademicon/analise/05-nichos-prospeccao.md) | **13 nichos ranqueados** (ticket, dor, acesso), fichas dos prioritários, canais de parceria e como montar listas |
 
 ### ✍️ Copy (`ademicon/copy/`)
@@ -39,6 +40,7 @@ Base de conhecimento, análise e planejamento para vender consórcios Ademicon (
 
 ### 🗂️ Backlog e fontes
 - [backlog/proximas-fases.md](ademicon/backlog/proximas-fases.md) — copy, ângulos, criativos, funil (fases seguintes)
-- [fontes/](ademicon/fontes/) — transcrição da apresentação, referências e simulador de comissão
+- [fontes/](ademicon/fontes/) — transcrição da apresentação, [conversa com o líder Marcelo](ademicon/fontes/conversa-marcelo-lider.md), referências e simulador de comissão
+- [ferramentas/crm-leads.csv](ademicon/ferramentas/crm-leads.csv) — planilha de leads com os códigos R/C/D (abre no Excel/Google Sheets)
 
 > Itens marcados **[CONFIRMAR]** são números/regras a validar com a loja (precisão da informação).
