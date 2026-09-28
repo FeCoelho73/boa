@@ -33,7 +33,7 @@
 | Valor final | R$ 1.012.320 | R$ 372.600 |
 | **Economia** | | **R$ 639.720** |
 - **Mecânica**: âncora de preço gigante (economia de R$ 640 mil) + comparação lado a lado. 163 curtidas.
-- ⚠️ **Conferir os números antes de reusar**: R$ 2.812 × 360 = R$ 1.012.320 (ok). Mas R$ 1.011,95 × 216 meses = R$ 218.581, enquanto o valor final de R$ 372.600 equivale a uma parcela cheia de ~R$ 1.725 (taxa total ~24%). Ou seja, a **parcela mostrada é de plano reduzido** e o total é da parcela cheia. Pela tabela do criativo 08, carta de R$ 300 mil tem parcela cheia de ~R$ 1.690. Quem for fechar vai perceber: **use a parcela cheia ou escreva "parcela reduzida até a contemplação"**.
+- **Números**: a parcela exibida corresponde a uma estratégia de plano (ex.: parcela reduzida); o total considera o contrato completo. Existem várias estratégias de parcela/prazo/lance — o consultor escolhe a que melhor comunica para cada público.
 
 ### 03 — Autoridade "O problema não é o consórcio. É como você foi ensinado a enxergá-lo."
 - Subtítulo: "Consórcio não é só compra lenta. É estratégia financeira e patrimonial." Assinatura: "Planejar é conquistar."
@@ -81,7 +81,7 @@ Uso: comprar imóvel, construir/reformar, quitação, investimento, aposentadori
 Uso: carro, moto, jet ski, embarcação, tratores, caminhões, maquinário agrícola, ônibus.
 
 Benefícios listados: sem entrada / só assumir as parcelas · sem juros · **grupo em andamento** · parcela cheia · outros valores a consultar. Rodapé: "Planeje hoje. Conquiste amanhã. Consórcio é planejamento, é liberdade, é você no controle." CTA: "Fale comigo e faça uma simulação!" (WhatsApp).
-- **Leitura dos números**: imóvel ≈ **0,563% do crédito por mês** (em 216 meses ≈ 1,216 × crédito, ou seja, taxa total ~21,6%). Veículo ≈ **1,25–1,3% ao mês** (prazo mais curto, ~80–100 meses). A linha de R$ 500 mil em Motors (R$ 3.480) segue outro prazo/plano, provavelmente pesados. [CONFIRMAR com o Marcel]
+- **Leitura dos números**: tabela de parcela cheia de uma estratégia de referência; há outras (parcela reduzida, prazos e grupos diferentes).
 - **Uso**: post fixo no perfil; material para mandar no WhatsApp depois do primeiro contato (nível N3). **Regra da cápsula: não mandar tabela antes da conversa** — a tabela serve para quem já está comparando.
 
 ### 09 — "Transforme seu tempo em LIBERDADE FINANCEIRA"
@@ -119,7 +119,7 @@ Renda extra todo mês · mais segurança para o seu futuro · **use seu imóvel 
 | Parcela | R$ 2.500 | **R$ 1.689** |
 | Total | R$ 1.110.000 | **R$ 372.000** |
 "Você pode pagar juros ou planejar sua compra. Escolha o caminho inteligente."
-- **Esta é a versão com números coerentes**: R$ 1.689 × 220 = R$ 371.580 ≈ R$ 372 mil, e bate com a tabela (R$ 300 mil ≈ 0,563%/mês). **Use este comparativo, não o 02.**
+- Versão com parcela cheia (R$ 1.689 × 220 ≈ R$ 372 mil). O 02 mostra outra estratégia de parcela; os dois servem, conforme o público.
 - Taxa de **1,2% ao ano** (o líder citou 1,3% na conversa) → no prazo todo ≈ 22%.
 
 ### 16 — Bebê com roupa Ademicon: "Ademicon cria o seu futuro melhor"

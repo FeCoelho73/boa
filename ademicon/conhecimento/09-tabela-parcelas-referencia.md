@@ -1,6 +1,6 @@
 # 09 — Tabela de parcelas de referência (dos criativos do Marcel)
 
-> Valores usados nos criativos do líder (setembro/2026). **Parcela cheia**, sem juros. Confirmar sempre no simulador da loja antes de passar ao cliente — grupos e prazos mudam.
+> Valores usados nos criativos do líder (setembro/2026). É **uma** referência entre várias estratégias possíveis: parcela cheia ou reduzida, prazos, grupos e lances diferentes mudam os números. A estratégia é definida caso a caso, pela parcela que cabe no bolso do cliente.
 
 ## Imóvel (~220 meses, taxa ~1,2% ao ano ≈ 22% no prazo todo)
 | Crédito | Parcela cheia | % do crédito/mês |

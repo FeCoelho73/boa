@@ -13,7 +13,7 @@
 - Tudo começa pela **parcela que cabe no bolso**. Atendimento personalizado, sem tabela única.
 - Duas pontas: **planejador** (cota nova, lance embutido/misto, Plano 50) e **imediatista** (carta contemplada). **Recompra da carta** pela Ademicon: 30–40% do crédito [confirmar regras].
 
-## 3. Números para usar (confirmar no simulador)
+## 3. Números de referência (uma entre várias estratégias possíveis)
 - Imóvel: **R$ 563/mês a cada R$ 100 mil**, ~220 meses, taxa ~**1,2% a.a.** (total ≈ 1,24 × crédito). R$ 300 mil: consórcio R$ 1.689/mês, total ~R$ 372 mil × financiamento 12% a.a., entrada R$ 60 mil, parcela R$ 2.500, total ~R$ 1,11 mi.
 - Veículo: ~R$ 1.300/mês a cada R$ 100 mil (parcela cheia); **Plano 50** = metade até contemplar.
 - Lances: embutido fixo **20%**, misto **40%** (20% embutido + 20% dinheiro), livre ~60–65%. Lance dado **sabendo o número sorteado** (2 dias úteis entre Loteria Federal e assembleia).
