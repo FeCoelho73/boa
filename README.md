@@ -22,6 +22,7 @@ Base de conhecimento, análise e planejamento para vender consórcios Ademicon (
 | [02-captacao-e-funil.md](ademicon/analise/02-captacao-e-funil.md) | Rede quente sem "vender", indicação como sistema, parcerias, leads frios, plano de 90 dias |
 | [03-numeros-e-metas.md](ademicon/analise/03-numeros-e-metas.md) | Da renda desejada à atividade diária; economia do tráfego pago |
 | [04-base-de-dados.md](ademicon/analise/04-base-de-dados.md) | Como ativar e monetizar a base de dados sem queimar |
+| [05-nichos-prospeccao.md](ademicon/analise/05-nichos-prospeccao.md) | **13 nichos ranqueados** (ticket, dor, acesso), fichas dos prioritários, canais de parceria e como montar listas |
 
 ### ✍️ Copy (`ademicon/copy/`)
 - [00-niveis-de-consciencia.md](ademicon/copy/00-niveis-de-consciencia.md) — estruturas N1 (inconsciente, explicado para criança de 10 anos), N2 (problema) e N3 (solução) + matriz de testes
