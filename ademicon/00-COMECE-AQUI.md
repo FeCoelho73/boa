@@ -3,6 +3,7 @@
 > Documento-mestre. Qualquer chat novo deve ler este arquivo primeiro. Repositório: `FeCoelho73/boa`, branch `claude/fervent-ramanujan-m05uby`, pasta `ademicon/`.
 
 ## 1. O projeto em 30 segundos
+- Instagram de vitrine: **@fe_mkt** (pessoal, com rosto e nome nos criativos). Verba de tráfego varia por dia.
 - **Fernando** entrou como consultor de consórcio na **Ademicon** (loja/time do **Jardim Avelino**, SP — provável time do diretor **Avelino Andrade**). Líder direto: **Marcel Corinti Mercurio** (@mcorinti84_ademicon), que passa roteiros, cápsulas de treinamento e criativos. Gestor que apresentou a loja: **Fábio**.
 - Objetivo: **vender muito** usando rede de contatos + marketing digital (copy, tráfego, funil). Fernando tem know-how digital e uma base de dados grande.
 - Remuneração: **3% do crédito**, pago escalonado (1,1% nas parcelas 1–10; 0,9% nas 11–13; 0,3% na 15ª; 0,7% vitalícia). **R$ 1 mi vendido/mês ≈ R$ 23 mil/mês de renda em regime.**
@@ -23,6 +24,7 @@
 ### Estratégia e captação
 | Doc | Para quê |
 |---|---|
+| [analise/10 — Rotina do dia a dia](analise/10-rotina-dia-a-dia.md) | **Como trabalhar todo dia**: horários, o que falar, @fe_mkt, anúncios, presencial, placar |
 | [analise/09 — Sistema de captação multifrentes](analise/09-sistema-captacao-multifrentes.md) | **Visão geral**: 7 frentes × nível de consciência × material |
 | [analise/06 — Sistema de prospecção](analise/06-sistema-de-prospeccao.md) | Segmentação R/C/D, roteiros de 1º contato, árvore de decisão |
 | [analise/07 — Reconexão WhatsApp](analise/07-reconexao-whatsapp.md) | Amigos/conhecidos: 4 fases, perguntas, "lembrei de você", poder do perdão |

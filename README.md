@@ -26,6 +26,7 @@ Base de conhecimento, análise e planejamento para vender consórcios Ademicon (
 | [03-numeros-e-metas.md](ademicon/analise/03-numeros-e-metas.md) | Da renda desejada à atividade diária; economia do tráfego pago |
 | [04-base-de-dados.md](ademicon/analise/04-base-de-dados.md) | Como ativar e monetizar a base de dados sem queimar |
 | [06-sistema-de-prospeccao.md](ademicon/analise/06-sistema-de-prospeccao.md) | **Sistema do líder**: segmentação R/C/D, roteiros de 1º contato, diagnóstico de 15 min, árvore de decisão, objeções, tráfego de carro |
+| [10-rotina-dia-a-dia.md](ademicon/analise/10-rotina-dia-a-dia.md) | **Rotina diária e semanal**, cola do que falar, Instagram @fe_mkt, anúncios com verba variável, presencial, placar |
 | [09-sistema-captacao-multifrentes.md](ademicon/analise/09-sistema-captacao-multifrentes.md) | **7 frentes de captação × nível de consciência × material pronto**, metas e ordem de execução |
 | [08-roteiro-reuniao-e-fechamento.md](ademicon/analise/08-roteiro-reuniao-e-fechamento.md) | **Cápsula de treinamento**: rapport por perguntas, institucional padrão, apresentação, fechamento com dados + Pix, objeção da parcela, fechamento de grupo, pós-venda |
 | [07-reconexao-whatsapp.md](ademicon/analise/07-reconexao-whatsapp.md) | **Reconexão com amigos e conhecidos**: 4 fases da conversa, perguntas, gancho "lembrei de você", convite, rotina diária |
@@ -50,6 +51,7 @@ Base de conhecimento, análise e planejamento para vender consórcios Ademicon (
 - [backlog/proximas-fases.md](ademicon/backlog/proximas-fases.md) — copy, ângulos, criativos, funil (fases seguintes)
 - [fontes/](ademicon/fontes/) — transcrição da apresentação, [conversa com o líder Marcelo](ademicon/fontes/conversa-marcelo-lider.md), transcrição da cápsula de 28/09, referências e simulador de comissão
 - [ferramentas/reconexao.py](ademicon/ferramentas/reconexao.py) — importa seus contatos, escreve a 1ª mensagem personalizada e gera o lote diário com botões do WhatsApp (dados ficam fora do repositório)
+- [ferramentas/subir_tudo_github.ps1](ademicon/ferramentas/subir_tudo_github.ps1) — sobe todas as pastas de trabalho do seu PC para o GitHub como **privadas** (para o Claude conectar)
 - [ferramentas/crm-leads.csv](ademicon/ferramentas/crm-leads.csv) — planilha de leads com os códigos R/C/D (abre no Excel/Google Sheets)
 
 > Itens marcados **[CONFIRMAR]** são números/regras a validar com a loja (precisão da informação).
