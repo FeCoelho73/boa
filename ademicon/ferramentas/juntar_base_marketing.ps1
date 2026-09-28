@@ -5,9 +5,16 @@
 #   powershell -ExecutionPolicy Bypass -File "$HOME\boa\ademicon\ferramentas\juntar_base_marketing.ps1"
 #
 # Pode rodar de novo sempre que quiser atualizar: ele copia o que mudou e envia.
+#
+# Modo -NoBoa (recomendado se o GitHub CLI der problema): copia para a pasta boa\base-marketing
+# e envia pelo repositório boa, usando o mesmo git que já funciona no seu computador.
+#   powershell -ExecutionPolicy Bypass -File "$HOME\boa\ademicon\ferramentas\juntar_base_marketing.ps1" -NoBoa
+
+param([switch]$NoBoa)
 
 $ErrorActionPreference = "Continue"
 $Destino = Join-Path $HOME "base-marketing"
+if ($NoBoa) { $Destino = Join-Path $HOME "boa\base-marketing" }
 $Doc = Join-Path $HOME "OneDrive\Documentos"
 
 # Pasta de origem  =>  nome da subpasta no repositório
@@ -35,14 +42,18 @@ $Tipos = @("*.md","*.txt","*.pdf","*.doc","*.docx","*.rtf","*.odt","*.xlsx","*.x
            "*.json","*.html","*.htm","*.js","*.ts","*.tsx","*.py","*.yml","*.yaml","*.srt","*.vtt",
            "*.png","*.jpg","*.jpeg","*.webp","*.gif","*.svg")
 
-# 1. GitHub CLI e login
-if (-not (Get-Command gh -ErrorAction SilentlyContinue)) {
+# 1. GitHub CLI e login (não é necessário no modo -NoBoa)
+if ($NoBoa) {
+    # pula direto para a cópia
+} elseif (-not (Get-Command gh -ErrorAction SilentlyContinue)) {
     winget install --id GitHub.cli -e --accept-source-agreements --accept-package-agreements
     $env:Path = [Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [Environment]::GetEnvironmentVariable("Path","User")
 }
-gh auth status 2>$null | Out-Null
-if ($LASTEXITCODE -ne 0) { gh auth login -w -p https }
-gh auth setup-git | Out-Null
+if (-not $NoBoa) {
+    gh auth status 2>$null | Out-Null
+    if ($LASTEXITCODE -ne 0) { gh auth login -w -p https }
+    gh auth setup-git | Out-Null
+}
 
 # 2. Copiar (sem vídeos)
 New-Item -ItemType Directory -Force -Path $Destino | Out-Null
@@ -51,6 +62,20 @@ foreach ($origem in $Pastas.Keys) {
     $alvo = Join-Path $Destino $Pastas[$origem]
     Write-Host "Copiando $origem -> $($Pastas[$origem])" -ForegroundColor Cyan
     robocopy "$origem" "$alvo" $Tipos /S /MAX:5242880 /XD node_modules .git .venv __pycache__ /R:0 /W:0 /NFL /NDL /NJH /NJS /NP | Out-Null
+}
+
+# 3a. Modo -NoBoa: envia pelo repositório boa
+if ($NoBoa) {
+    Set-Location (Join-Path $HOME "boa")
+    git pull --no-rebase --no-edit origin claude/fervent-ramanujan-m05uby
+    git add -A base-marketing
+    git -c user.name="Fernando" -c user.email="ricapelmkt@gmail.com" commit -q -m "Base de marketing (VSL, copy, criativos)"
+    git push origin HEAD:claude/fervent-ramanujan-m05uby
+    $qtd = (git ls-files base-marketing | Measure-Object).Count
+    Write-Host "`n==================== RESULTADO ====================" -ForegroundColor Green
+    Write-Host "Arquivos enviados em boa/base-marketing: $qtd"
+    Write-Host "Mande 'pronto' para o Claude."
+    exit 0
 }
 
 # 3. Enviar para o GitHub como PRIVADO
