@@ -66,6 +66,10 @@ Se ele perguntar "o que você tá fazendo?":
 
 ---
 
+## 5.1 Duas estratégias extras da cápsula de treinamento
+- **O poder do perdão**: ligue para alguém com quem você se chateou (ou que você chateou) e peça perdão pela pessoa que você era. A reconexão é forte e, cedo ou tarde, a pessoa pergunta o que você está fazendo. Não fale de trabalho nessa ligação.
+- **Ligue pelo WhatsApp, não pelo número comum**: aparece seu nome e sua foto, a pessoa atende. **Áudio e ligação funcionam muito melhor que texto.**
+
 ## 6. O que NUNCA fazer
 - ❌ Mandar "oi, sumido" e na mensagem seguinte já falar de consórcio.
 - ❌ Mandar link, tabela ou simulação sem ele pedir.
